@@ -1,8 +1,8 @@
 {
     "clientVersionCode": 101,
     "gameFilesVersionCode": 5,
-    "URL_GAME_FILES" : "http://trapex-online.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "http://trapex-online.ru/game.zip",
+    "URL_GAME_FILES" : "https://trapex-online.ru/game.zip",
+    "URL_GAME_FILES_UPD" : "https://trapex-online.ru/game.zip",
     "URL_VK": "https://vk.com/trapex_samp",
     "URL_DISCORD": "",
     "URL_YOUTUBE": "https://youtube.com/@trapex_samp?si=4YCbc6s5Hw7zhN0e",
